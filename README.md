@@ -2,7 +2,7 @@
 🟢[2026-01-11 14:57:20] 🔴[phantom::core] 🟢[cracked] Phantom is a paid Roblox External which I have made free for everyone to use.
 
 # Short Disclaimer:
-🟢[2026-01-11 14:39:21] 🔴[phantom::core] 🟢[discalimer] This project is provided for educational and research purposes only. I am not responsible for how this software is used. Users are solely responsible for complying with all applicable laws and terms of service. 
+🟢[2026-01-11 14:39:21] 🔴[phantom::core] 🟢[disclaimer] This project is provided for educational and research purposes only. I am not responsible for how this software is used. Users are solely responsible for complying with all applicable laws and terms of service. 
 
 # My discord server:
 🟢[2026-01-11 14:59:42] 🔴[phantom::core] 🟢[discord] For more externals join my discord: https://discord.gg/NCcTwpNQ2S 
