@@ -14,7 +14,7 @@
 🟢[2026-01-11 14:54:00] 🔴[phantom::core] 🟢[features] Phantom has many features such as aimbot, ESP, animation Spoofer, configs, theme Creator and alot more but I dont feel like typing.
 
 ## Downloading:
-🟢[2026-01-11 14:40:11] 🔴[phantom::core] 🟢[downloading] Phantom is available for download through this repository right [here](). Use at your own risk, and ensure you understand how externals function before running it. Note that using externals violates Roblox’s Terms of Service and may result in account suspension or termination. You assume all risk when using this software and any software from my repositorys.
+🟢[2026-01-11 14:40:11] 🔴[phantom::core] 🟢[downloading] Phantom is available for download through this repository right [here](https://github.com/glyphaj1/phantom_Cracked/blob/main/Phantom%20External.zip). Use at your own risk, and ensure you understand how externals function before running it. Note that using externals violates Roblox’s Terms of Service and may result in account suspension or termination. You assume all risk when using this software and any software from my repositorys.
 
 # WARNING:
 🟢[2026-01-11 14:56:40] 🔴[phantom::core] 🟢[warning] Use at your own risk, and ensure you understand how externals function before running it. Note that using externals violates Roblox’s Terms of Service and may result in account suspension or termination. You assume all risk when using this software and any software from my repositorys.
