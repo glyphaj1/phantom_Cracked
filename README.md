@@ -1,4 +1,5 @@
 # Phantom Cracked (educational purposes)
+🟢[2026-01-11 14:59:42] 🔴[phantom::core] 🟢[discord] For more join my discord: https://discord.gg/NCcTwpNQ2S 
 🟢[2026-01-11 14:57:20] 🔴[phantom::core] 🟢[cracked] Phantom is a paid Roblox External which I have made free for everyone to use.
 
 # Short Disclaimer:
