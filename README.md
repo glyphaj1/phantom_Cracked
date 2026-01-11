@@ -8,7 +8,7 @@
 🟢[2026-01-11 14:59:42] 🔴[phantom::core] 🟢[discord] For more externals join my discord: https://discord.gg/NCcTwpNQ2S 
 
 # Description:
-🟢[2026-01-11 14:39:52] 🔴[phantom::core] 🟢[description] Phantom is a paid but it is fully pasted from Aimquette which is another Roblox external. I know this because both externals show identical patterns within the code also they share exact same loader.
+🟢[2026-01-11 14:39:52] 🔴[phantom::core] 🟢[description] Phantom is a paid ($7) but it is fully pasted from Aimquette which is another Roblox external. I know this because both externals show identical patterns within the code also they share exact same loader.
 
 # Features:
 🟢[2026-01-11 14:54:00] 🔴[phantom::core] 🟢[features] Phantom has many features such as aimbot, ESP, animation Spoofer, configs, theme Creator and alot more but I dont feel like typing.
